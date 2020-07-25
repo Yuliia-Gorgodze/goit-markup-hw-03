@@ -67,7 +67,7 @@ ul {
 .contacts-conteiner {
   display: flex;
   width: 370px;
-  margin-left: 230px;
+  margin-left: auto;
   justify-content: flex-end;
   padding-left: 0;
 }
